@@ -1,4 +1,4 @@
-package com.erpviet;
+package com.erpvietizisolotion;
 
 import android.app.Application;
 import com.facebook.react.PackageList;

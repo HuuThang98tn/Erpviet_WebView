@@ -1,4 +1,4 @@
-package com.erpviet;
+package com.erpvietizisolotion;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;
